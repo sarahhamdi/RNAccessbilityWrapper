@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/sarahhamdi/react-native-builder-bob",
+  "repository": "https://github.com/sarahhamdi/RNAccessbilityWrapperManager.git",
   "author": "Sarah Hamdi <s.hamdi@gmail.com> (https://github.com/sarahhamdi)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sarahhamdi/react-native-builder-bob/issues"
   },
-  "homepage": "https://github.com/sarahhamdi/react-native-builder-bob#readme",
+  "homepage": "https://github.com/sarahhamdi/RNAccessbilityWrapperManager#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
